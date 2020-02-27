@@ -1,0 +1,8 @@
+<?php
+
+CModule::AddAutoloadClasses(
+    '',
+    [
+    ]
+);
+
